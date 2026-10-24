@@ -8,7 +8,7 @@
 PRODUCT_NAME = goatkart
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.goatkart
+PRODUCT_BUNDLE_IDENTIFIER = com.goatkart.app
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2026 com.example. All rights reserved.

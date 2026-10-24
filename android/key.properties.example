@@ -1,0 +1,8 @@
+# Example Release Signing Configuration
+# Copy this file to key.properties and fill in your actual keystore credentials.
+# Make sure key.properties and your *.jks keystore file are kept secret and NOT committed to version control.
+
+storePassword=YOUR_STORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=upload
+storeFile=upload-keystore.jks

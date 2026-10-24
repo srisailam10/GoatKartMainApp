@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '257992393532',
     projectId: 'goatkart',
     storageBucket: 'goatkart.firebasestorage.app',
-    iosBundleId: 'com.example.goatkart',
+    iosBundleId: 'com.goatkart.app',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -73,7 +73,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '257992393532',
     projectId: 'goatkart',
     storageBucket: 'goatkart.firebasestorage.app',
-    iosBundleId: 'com.example.goatkart',
+    iosBundleId: 'com.goatkart.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
